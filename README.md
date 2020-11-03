@@ -1,5 +1,9 @@
 # xeokit-bim-viewer
 
+https://anastasiish.github.io/xeokit-bim-viewer/app/index.html?projectId=OTCConferenceCenter&tab=storeys
+
+
+
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9144bfee5a4b42ae8dc2eb603aa9966c)](https://www.codacy.com/manual/lindsay-kay/xeokit-viewer?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=xeokit/xeokit-viewer&amp;utm_campaign=Badge_Grade)
 [![npm version](https://badge.fury.io/js/%40xeokit%2Fxeokit-bim-viewer.svg)](https://badge.fury.io/js/%40xeokit%2Fxeokit-bim-viewer)
 
